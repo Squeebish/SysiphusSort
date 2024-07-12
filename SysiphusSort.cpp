@@ -78,7 +78,7 @@ int main(int argc, char **argv)
         // make the size of the array
         if (size < 2 || size > MAX_SIZE)
         {
-            cout << "Invalid size: must be an itger from 2 - " << MAX_SIZE <<"\n\n" << use;
+            cout << "Invalid size: must be an intger from 2 - " << MAX_SIZE <<"\n\n" << use;
         }
 
         // make the max prob
