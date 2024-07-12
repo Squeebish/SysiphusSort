@@ -1,14 +1,14 @@
 # SysiphysSort
-- Sysiphus Sort is an homage to the ancient myth of Sysiphus
-- This code is a bubble sort, excpet every swap the number has a chance to fall back down
+- Sysiphus Sort is an homage to the ancient myth of Sysiphus<br>
+- This code is a bubble sort, excpet every swap the number has a chance to fall back down<br>
 - the chance to fall grows with respect to where the current number is in the array
 - Written by Jake Spaulding 2024 for the cs50 create task
 - takes 4 args or can be run without any to use a defualt template:
 ## the args are:
-  1: the type of array (user, rev, rand, rand_inc)
-  2: a positve int to define the size of the array
-  3: a positve int to define the maximum probability of the fall (out of 100)
-  4: the type of probability growth (lin, log, const)
+  1: the type of array (user, rev, rand, rand_inc)<br>
+  2: a positve int to define the size of the array <br>
+  3: a positve int to define the maximum probability of the fall (out of 100)<br>
+  4: the type of probability growth (lin, log, const)<br>
 
 ### ex: 
 "./SysiphysSort rand 10 15 log"
