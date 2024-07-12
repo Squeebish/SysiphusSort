@@ -1,4 +1,4 @@
-# SysiphysSort
+# SysiphusSort
 - Sysiphus Sort is an homage to the ancient myth of Sysiphus<br>
 - This code is a bubble sort, excpet every swap the number has a chance to fall back down<br>
 - the chance to fall grows with respect to where the current number is in the array
