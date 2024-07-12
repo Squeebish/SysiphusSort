@@ -20,4 +20,4 @@
 I designed this code as a project for class, but also as an expression of what it means to attempt an intractable task.
 I designed it, with my limited understanding of programming, to be modifiable and modular.
 That is to say -have at it! 
-My goal was to make Sysiphus Sort something anybody could mold into their own vision, to make it something anybody can use.
+My goal was to make Sysiphus Sort something anybody could mold into their own vision, to make it something anybody can adapt in hopes that some day it might become bigger than just my litle project, rather become a product of the programming community
